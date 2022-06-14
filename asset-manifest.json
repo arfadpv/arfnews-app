@@ -1,7 +1,7 @@
 {
   "main.css": "/arfnews-app/static/css/main.3ae8d214.chunk.css",
-  "main.js": "/arfnews-app/static/js/main.cdfcdc69.chunk.js",
-  "main.js.map": "/arfnews-app/static/js/main.cdfcdc69.chunk.js.map",
+  "main.js": "/arfnews-app/static/js/main.f87c797a.chunk.js",
+  "main.js.map": "/arfnews-app/static/js/main.f87c797a.chunk.js.map",
   "static/js/1.d11720e8.chunk.js": "/arfnews-app/static/js/1.d11720e8.chunk.js",
   "static/js/1.d11720e8.chunk.js.map": "/arfnews-app/static/js/1.d11720e8.chunk.js.map",
   "static/js/2.fa317113.chunk.js": "/arfnews-app/static/js/2.fa317113.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/arfnews-app/static/js/runtime~main.068dff06.js.map",
   "static/css/main.3ae8d214.chunk.css.map": "/arfnews-app/static/css/main.3ae8d214.chunk.css.map",
   "index.html": "/arfnews-app/index.html",
-  "precache-manifest.0ac9d2fb72e2005cfc419911f2ddb77b.js": "/arfnews-app/precache-manifest.0ac9d2fb72e2005cfc419911f2ddb77b.js",
+  "precache-manifest.1a9b757ead43376d985194e9cb2739e7.js": "/arfnews-app/precache-manifest.1a9b757ead43376d985194e9cb2739e7.js",
   "service-worker.js": "/arfnews-app/service-worker.js"
 }
